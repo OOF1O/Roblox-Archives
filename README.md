@@ -1,4 +1,4 @@
-# Roblox-Archies
+# Roblox-Archives
 Old Version of Roblox Tested!
 
 info
@@ -26,6 +26,8 @@ game.Players.LocalPlayer:LoadCharacter()
 
 Run the game:
 game:GetService("RunService"):Run()
+
+Note: the commands will work and on Roblox 2008 or mid 2008
 
 WARNING: DO NOT USE THIS AS A MULTIPLAYER CLIENT
 This build in its vanilla state is EXTREMELY VULNERABLE to exploits.
