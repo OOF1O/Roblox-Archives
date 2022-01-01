@@ -30,7 +30,7 @@ game:GetService("RunService"):Run()
 
 Note: the commands will work and on Roblox 2008 or mid 2008
 
-Roblox 2012 - Roblox 2014
+Roblox 2012 - Roblox 2013
 
 Do not run RobloxStudioLauncher.exe run RobloxStudio.exe
 in 2012 it won't work and on 2014 it will open roblox studio if you run RobloxStudioLauncher.exe
