@@ -30,6 +30,7 @@ game:GetService("RunService"):Run()
 
 Note: the commands will work and on Roblox 2008 or mid 2008
 
-WARNING: DO NOT USE THIS AS A MULTIPLAYER CLIENT
-The builds in its vanilla state is EXTREMELY VULNERABLE to exploits.
-I cannot guarentee your safety connecting to servers running this build, nor will i take any responsibility if anything happens. You have been warned, be smart and have fun :)!
+Roblox 2012 - Roblox 2014
+
+Do not run RobloxStudioLauncher.exe run RobloxStudio.exe
+in 2012 it won't work and on 2014 it will open roblox studio if you run RobloxStudioLauncher.exe
