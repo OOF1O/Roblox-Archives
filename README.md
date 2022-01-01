@@ -12,6 +12,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=26347
 (Note: You will need the x86 pack. It may also help to have the x64 pack as well.)
 
 Helpful Commands
+
 Open uncopylocked places from the website:
 game:Load("http://www.roblox.com/asset/?ID=PLACEID")
 
