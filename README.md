@@ -30,13 +30,9 @@ game:GetService("RunService"):Run()
 
 Note: the commands will work and on Roblox 2008 or mid 2008
 
-Roblox 2012 - Roblox 2013
+Roblox 2012 - Roblox 2017
 
 Do not run RobloxStudioLauncher.exe run RobloxStudio.exe
 
 Things to do
--add Roblox 2014
--add Roblox 2015
--add Roblox 2016
--add Roblox 2017
 -add Roblox 2006
